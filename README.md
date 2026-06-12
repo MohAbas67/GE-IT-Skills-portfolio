@@ -4,7 +4,6 @@
 
 Welcome to my master professional hub. This repository serves as a live-hosted synthesis of my design deliverables, bridging structured analytical execution with creative innovation.
 
-🌐 **[Live Portfolio Hub (GitHub Pages Link Goes Here)](#)**
 
 ---
 
