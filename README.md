@@ -13,8 +13,8 @@ I am driven by a high-energy approach to both creative and analytical pursuits. 
 My brand identity centers around the **8-ball icon**, symbolizing precision, strategy, and staying one step ahead of the game.
 
 ### 🚀 Core Skills & Interests
-* **Multi-tasking & Time Management:** Adept at balancing complex schedules and tight deadlines. I prioritize high-impact tasks and streamline workflows to maintain efficiency under pressure.
-* **Creative Outlook:** Deeply inspired by rhythm, fashion, and the creative expression of streetwear culture. This passion shapes my artistic choices and understanding of modern design trends.
-* **Analytical Strategy:** Focused on analyzing market data, tracking metrics, and making calculated, active choices.
+* **Introduction:** This multi-panel layout seamlessly maps out personal skills, creative interests, and a five-year professional roadmap. By combining a grit texture with vibrant red overlays, the design maintains strong visual cohesion while keeping complex text blocks highly scannable.
+* **Banner:** The master banner introduces a sharp, high-contrast palette of texturized black, cream, and deep red that sets a striking visual tone. Integrating the iconic 8-ball emblem directly into the primary typography beautifully reinforces themes of strategy and precision.
+* **Prototype:** This digital interface adapts a distinct personal brand identity into a highly dynamic, streetwear-focused consumer experience. The layout uses bold typography, asymmetric product framing, and clean navigation to effortlessly guide users from product discovery to the final checkout.
 
 ---
