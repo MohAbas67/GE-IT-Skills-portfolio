@@ -1,5 +1,3 @@
----
-
 # The Samal Island Sustainable Eco-Tourism Prompt System
 
 ### 1. The Shortened RCTCO Framework
