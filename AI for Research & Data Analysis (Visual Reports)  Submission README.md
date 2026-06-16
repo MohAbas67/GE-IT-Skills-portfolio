@@ -23,7 +23,7 @@ Context: Your department has received a corrupted, unorganized CSV file tracking
 Constraints: Maintain an authoritative, precise, and governance-oriented data tone. Focus exclusively on localized regional constraints (e.g., data gaps from low-bandwidth barangay reporting, missing infrastructure fields, seasonal agricultural or weather anomalies unique to Mindanao). Do NOT output generic data-science introductory pleasantries, placeholders, or broad macroeconomic boilerplate.
 
 Format: Structure your response in clean Markdown using these exact headings:
-
+## Execution
 # AUTOMATED VISUAL DATA REPORT: [Insert Project Title Here]
 
 ## I. DATABASE STRUCTURAL ADJUSTMENT SUMMARY
@@ -99,7 +99,6 @@ Format: Structure your response in clean Markdown using these exact headings:
 </svg>
 
 ```
-### Execution
 ### Technical Breakdown of Geometric Elements
 
 * **The Muted Background Grid Lines:** Symbolize the legislative planning criteria and budgetary limits within which the regional dataset must be forced to align.
