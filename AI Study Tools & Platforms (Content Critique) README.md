@@ -128,10 +128,6 @@ Transitioning from traditional market matching to digitally integrated platforms
 
 ---
 
-## 💡 Lessons for the Policy Tank
-
-This exercise proves that while AI accelerates the initial aggregation of broad economic themes, **it cannot replace the rigorous empirical validation required by our Research Director**. Relying solely on automated outputs for regional policy would result in formulating interventions based on non-existent funding and exaggerated infrastructure capacities. 
-
 The dual-layer protocol (*AI Synthesis → Manual Primary Source Audit*) will remain the mandatory standard for all future briefs.
 * **The Open Multi-Page Folio:** Symbolizes the foundational synthesis phase of the literature review, balancing raw automated textual data processing (left page) against localized thematic indexing (right page).
 * **The Golden Intersecting Magnifying Lens:** Illustrates the precise Human-in-the-Loop (HITL) verification matrix. It intercepts the background data layer to visually isolate, evaluate, and challenge high-risk statistical assertions.
